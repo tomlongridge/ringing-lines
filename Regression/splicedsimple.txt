@@ -1,0 +1,40 @@
+[Y=York Surprise,6]
+[D=Durham Surprise,6]
+
+144
+	23456	Y
+	35264	D
+	56342	D
+-	56423	D
+	62534	Y
+	23645	Y
+-	23456
+
+[P=Plain Bob,8]
+[L=Little Bob,8]
+
+88
+W	H			23456
+-	-	PLP		45236
+-	-	LLLLP	23456
+
+[K=Kent Treble Bob,6]
+[O=Oxford Treble Bob,6]
+
+72
+	23456	K
+s	42365	O
+s	34256	K
+-	23456
+
+[S=St Simon's Bob,5]
+[M=St Martin's Bob,5]
+
+60
+	2345	M
+	4253	S
+-	3542	S
+	4325	M
+-	5243	S
+	4532	S
+-	2345

@@ -1,0 +1,27 @@
+[C=Cambridge Surprise,8]
+[Y=Yorkshire Surprise,8]
+[N=Lincolnshire Surprise,8]
+[S=Superlative Surprise,8]
+[P=Pudsey Surprise,8]
+[R=Rutland Surprise,8]
+[B=Bristol Surprise,8]
+[L=London Surprise,8]
+
+1250
+W	H			23456
+	-	YCYCYYC	42356
+	-	YYYCYCY	34256
+-		YCYCCYC	53246
+-	-	YCCCYCY	24536
+	-	CYYCYCY	52436
+s		CCYY(Y)	(32456)
+
+1280
+B	W	H			23456
+	-		YCPSYCN	52436
+-			NSNP	23564
+-		-	PSPP	23645
+	-		YCPSYCN	42635
+-		-	NSSN	42356
+		-	YCPSYCN	34256
+		-	YCPSYCN	23456
